@@ -16,3 +16,9 @@ Placed in a folder named for the official name of the map.
 ## Optional Extras
 Translations, with filename properly formatted using the 2 character country code. Example: AutoDrive_config_de.xml
 Visual Map of the network created in AutoDrive Course Editor.
+
+### Extracting Network Destinations
+This regex can be used in Notepad++ on the AutoDrive_config.xml file. If you open the file, and use the Replace dialog.
+Find what: ```<mm.+?>\n.+?\n.+?<name>(.+?)</name>\n.+?\n.+?</mm.+?>```
+Replace with: ```\1```
+This regex is actually from J.T. Sage's FS19 AutoDrive repo, and reproduced here without his permission. All credit belongs to him.
