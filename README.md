@@ -8,6 +8,9 @@ All networks in this repository are licensed under the [CC0 1.0 Universal licens
 Download the AutoDrive_config.xml file for the map into the save game folder for whichever save you wish.
 WARNING: Following this **will** overwrite any existing courses for that save game. If you wish to keep them, please create a backup.
 
+## I found a bug, limitation, or other issue with a network
+Please use the [GitHub Issues tool](https://github.com/Dylan-M/FS-AutoDrive-Networks/issues) for this repository.
+
 # Translations
 I will not be translating any of the networks in this repository. If you wish to submit a translation, please fork this repository, created a dedicated branch, make your changes, and open a pull request to this repository. The pull request **must** be from a dedicated branch just for that change, not from the main/master branch of your fork. Please see the [GitFlow Document](https://guides.github.com/introduction/flow/).
 
