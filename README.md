@@ -24,3 +24,6 @@ Nothing. Zero. Zilch. Nada.
 
 # Can I create a network for you on map XYZ?
 Maybe. Perhaps. My time is valuable. I will accept paid contracts to make networks. What we negotiate would depend on the complexity and size of the map. The network would remain mine, be licensed under the [CC0 1.0 Universal license](LICENSE) with the rest of this repository, and shared with everyone. Otherwise, you can hope that I decide to play the same map and create a network for it.
+
+# Contributors
+[Dylan-M](https://github.com/Dylan-M)
