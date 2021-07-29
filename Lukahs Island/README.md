@@ -21,60 +21,61 @@ No translations currently available.
 (Dead End) means that it has no automatic turn around to get back out
 
 ## Fields
-Field 01
-Field 02
-Field 03
-Field 04
-Field 05
-Field 06
-Field 07
-Field 08
-Field 09
-Field 10 North
-Field 10 South
-Field 11
-Field 12
-Field 13
-Field 14
-Field 15
-Field 16
-Field 17
-Field 18
-Field 19
-Field 20
-Field 21
-Field 22 North
-Field 22 South
-Field 23
+	* Field 01
+	* Field 02
+	* Field 03
+	* Field 04
+	* Field 05
+	* Field 06
+	* Field 07
+	* Field 08
+	* Field 09
+	* Field 10 North
+	* Field 10 South
+	* Field 11
+	* Field 12
+	* Field 13
+	* Field 14
+	* Field 15
+	* Field 16
+	* Field 17
+	* Field 18
+	* Field 19
+	* Field 20
+	* Field 21
+	* Field 22 North
+	* Field 22 South
+	* Field 23
 
 ## Farm
+
 ### Parking
-Home Yard Sheds
+	* Home Yard Sheds
 
 ### Silos
-Home Yard Silo Dump
-Home Yard Silo Discharge
+	* Home Yard Silo Dump
+	* Home Yard Silo Discharge
 
 ## BGA
-BGA Service points, and any description about them
+No BGA Present
 
 ## Points of Interest
-Repair
-Fuel
-Placables Area By Shop South
-Placables Area By Shop North
-Placables Area Southwest
-Woodlot NW
-Sawmill/Woodlot
+	* Repair
+	* Fuel
+	* Placables Area By Shop South
+	* Placables Area By Shop North
+	* Placables Area Southwest
+	* Woodlot NW
+	* Sawmill/Woodlot
 
 ## Sale Points
-Bales
-Dairy
-Ginger's Mill
-Skipper's Mill
-Spinnery
-Woodchips
-Logs
+	* Bales
+	* Dairy
+	* Ginger's Mill
+	* Skipper's Mill
+	* Spinnery
+	* Woodchips
+	* Logs
 
 ## Buy Points
-Shop
+	* Shop
