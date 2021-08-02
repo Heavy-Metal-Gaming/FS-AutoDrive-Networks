@@ -19,7 +19,7 @@ To use a translated file, simply rename the existing AutoDrive_config.xml to Aut
 If you contribute a translation to any of the .md files, they should be named with the 2 character country code as well. Such as: README_de.md or CONTRIBUTING_de.md and then linked from the document that they're a translation of.
 
 # How to contribute
-As with translations, the basic procedure to follow is to fork, branch, make changes, create a PR. Follow this [GitFlow Document](https://guides.github.com/introduction/flow/). More detailed instructions can be found in CONTRIBUTING.md
+As with translations, the basic procedure to follow is to fork, branch, make changes, create a PR. Follow this [GitFlow Document](https://guides.github.com/introduction/flow/). More detailed instructions can be found in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # How much does this cost me?
 Nothing. Zero. Zilch. Nada.
