@@ -1,3 +1,4 @@
+
 # Map Info
 Lincoln Creek by MRG Mapping
 https://mod-network.com/detail/32437/Lincoln+Creek+Version+1
@@ -26,11 +27,12 @@ Farm buildings
 ### Silos
 - Farm grain silos are NOT setup
 
-## BGA
+### BGA
 - N/A
-
 
 ## Sale Points
 
-
 ## Buy Points
+
+## Author
+Created by Internalfyre. Please submit any issues found with the AD network on Github. 
