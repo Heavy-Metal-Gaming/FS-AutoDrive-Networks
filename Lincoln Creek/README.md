@@ -1,6 +1,5 @@
 # Map Info
-Lincoln Creek by MRG Mapping
-https://mod-network.com/detail/32437/Lincoln+Creek+Version+1
+[Lincoln Creek by MRG Mapping](https://mod-network.com/detail/32437/Lincoln+Creek+Version+1)
 
 # Network Description
 - All dirt roads are designed with two way (Blue) routes
