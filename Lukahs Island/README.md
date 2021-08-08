@@ -1,7 +1,6 @@
 # Map Info
-Lukah's Island
+[Lukah's Island](https://farming-simulator.com/mod.php?lang=en&country=fi&mod_id=201911)
 Authors: Cazz64, Old Aussie Gamer
-URL: https://farming-simulator.com/mod.php?lang=en&country=fi&mod_id=201911
 
 # Network Description
 Most fields are unidirectional tracks, but a few are omnidirectional. Almost all unload/sale points are unidirectional because of how AutoDrive works with them for automatic unloading.
