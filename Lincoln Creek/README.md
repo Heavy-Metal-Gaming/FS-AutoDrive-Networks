@@ -6,24 +6,26 @@
 - Any two lane roads are setup with single direction routes
 
 # Network Destinations
-### How the network destinations are organized
+### Network Waypoint Organization
 - Folder structure created based on the following
-	- Fields
-	- Sell Points
+	- Buy Points - Seed/Fertilizer/Lime etc.
 	- Farms
+	- Fields
+	- Sellpoints and Stores
 	
-## Fields
+### Fields
 - Fields are organized in two folders, Fields 1-43 and 44 to 86
 
-## Grain Bins
+### Grain Bins
 - Grain bin waypoints are setup IF they are the only item on the land
 
-## Farms
+### Farms
 - Locations are considered farms if they are the following:
 	- Land is buyable
 	- There are grain bins, storage and/or GC dryers on the land
 - Farms are NOT labelled in any specific order
-## Parking
+
+### Parking
 - There are NO parking spots setup
 
 ## Contributors
