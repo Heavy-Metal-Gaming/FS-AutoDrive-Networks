@@ -1,6 +1,10 @@
 # FS AutoDrive Networks
 AutoDrive networks for Farming Simulator Maps. Currently for FS19 only, but when FS22 is released and AD is available for it, these will be included as well.
 
+## Additional Resources
+There are others doing similar things. I fork their repos as I come across them, so that I can contribute fixes. These are links to those.
+[My fork of J.T. Sage's AD repo](https://github.com/Dylan-M/FS19_AutoDrive_Courses)
+
 ## License
 All networks in this repository are licensed under the [CC0 1.0 Universal license](LICENSE).
 
