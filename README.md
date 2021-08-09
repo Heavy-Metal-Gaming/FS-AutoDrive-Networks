@@ -29,3 +29,4 @@ Maybe. Perhaps. My time is valuable. I will accept paid contracts to make networ
 
 # Contributors
 [Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://studio.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA)
+[jbeck1563]https://github.com/jbeck1563 aka Internalfyre
