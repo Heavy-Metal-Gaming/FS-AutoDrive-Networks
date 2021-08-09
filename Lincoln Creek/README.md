@@ -26,5 +26,5 @@
 ## Parking
 - There are NO parking spots setup
 
-## Author
-Created by Internalfyre. Please submit any issues found with the AD network on Github. 
+## Contributors
+[jbeck1563](https://github.com/jbeck1563) aka Internalfyre
