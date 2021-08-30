@@ -12,7 +12,7 @@ No translations currently available.
 
 # Network Destinations
 ### Suffixes
-(Back) means that you back in
+(Back) means that you back in  
 (Dead End) means that it has no automatic turn around to get back out
 
 ## Fields
@@ -68,9 +68,9 @@ No translations currently available.
 	* Farm 2
 	* Liquid Store
 	* Fert Store
-
-### Parking
-Parking spots for equipment (Delete section if there are none)
+	* Cow Feed
+	* Slurry
+	* Farm Silo
 
 ### Silos
 	* Lime Fill Yard
@@ -78,7 +78,7 @@ Parking spots for equipment (Delete section if there are none)
 	* Seed Fill Yard
 
 ## BGA
-	* Bio Storage Langenheide
+	* BGA
 
 ## Points of Interest
 	* Ravensberg Castle (Dead End)
@@ -86,24 +86,18 @@ Parking spots for equipment (Delete section if there are none)
 	* Workshop North
 	* Central Gas Station
 	* South Vehicle Workshop
+	* Ranch
+	* Forest
 
 ## Sale Points
-	* Forest
+	* Bio Storage Langenheide
 	* Wood Sell
-	* Farm Silo
 	* Grain Elevator
 	* Wood Sell Rail North
 	* Miller & Son Crop
-	* BGA
-	* Cow Feed
-	* Slurry
-	* Liquid FERT Buy North
-	* HERB Buy North
 	* Spinnery Langenheide
-	* Animal Dealer North
-	* Ranch
 	* LGH Lagenheide
-	* Harbour Liquid FERT
+	* Energy Farm
 	* Supermarket
 	* Spinnery Ravensberg
 	* Seed Store
@@ -118,11 +112,15 @@ Parking spots for equipment (Delete section if there are none)
 
 ## Buy Points
 	* Shop
+	* Liquid FERT Buy North
+	* HERB Buy North
 	* Seed Buy
 	* Fert Buy
 	* Lime Buy
+	* Animal Dealer North
 	* Ravensburg Harbour
 	* Harbour Fert Buy
+	* Harbour Liquid FERT
 	* Harbour Lime Buy
 	* Harbour Seed Buy
 	* Harbour HERB Buy
@@ -133,4 +131,4 @@ Parking spots for equipment (Delete section if there are none)
 	* Central Slurry Buy
 	* Central Manure Buy
 	* Central Animal Dealer
-	* Energy Farm
+	
