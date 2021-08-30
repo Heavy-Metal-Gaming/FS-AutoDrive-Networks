@@ -6,10 +6,10 @@ by Alien Jim
 None available
 
 ## Contributors
-[J.T. Sage](https://github.com/jtsage)
-- Original author, you can find [his version here](https://github.com/jtsage/FS19_AutoDrive_Courses).
-[Dylan M](https://github.com/Dylan-M)
-- Many fixes to broken routes, and edits to be compatible with the tractor/trailer equipment provided with the map mods.
+ * [J.T. Sage](https://github.com/jtsage)
+- Original author, you can find [his version here](https://github.com/jtsage/FS19_AutoDrive_Courses).  
+ * [Dylan M](https://github.com/Dylan-M)
+- Many fixes to broken routes, and edits to be compatible with the tractor/trailer equipment provided with the map mods.  
 
 # Route Map Image
 ![Route Map](Map.png)
