@@ -76,6 +76,7 @@ No translations currently available.
 	* Lime Fill Yard
 	* Fert Fill Yard
 	* Seed Fill Yard
+	* Seed Store
 
 ## BGA
 	* BGA
@@ -100,7 +101,6 @@ No translations currently available.
 	* Energy Farm
 	* Supermarket
 	* Spinnery Ravensberg
-	* Seed Store
 	* Ravensberg Mill
 	* Osninghausen
 	* Ag Trade Isinghagen
