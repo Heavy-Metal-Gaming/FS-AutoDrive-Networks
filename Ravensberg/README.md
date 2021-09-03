@@ -1,6 +1,10 @@
 # Map Info
 [Ravensberg](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=190050&title=fs2019)  
 TopAce888
+	
+# Contributors
+[Marela](https://www.youtube.com/c/Marelafs)
+[Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://www.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA/) for minor edits
 
 # Network Description
 The south west farm has a network running through it but does not have any waypoints should you wish to add your own.  
@@ -131,4 +135,3 @@ No translations currently available.
 	* Central Slurry Buy
 	* Central Manure Buy
 	* Central Animal Dealer
-	
