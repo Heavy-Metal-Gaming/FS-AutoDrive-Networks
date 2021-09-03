@@ -2,6 +2,9 @@
 [Lukah's Island](https://farming-simulator.com/mod.php?lang=en&country=fi&mod_id=201911)
 Authors: Cazz64, Old Aussie Gamer
 
+# Contributors
+[Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://www.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA/)
+
 # Network Description
 Most fields are unidirectional tracks, but a few are omnidirectional. Almost all unload/sale points are unidirectional because of how AutoDrive works with them for automatic unloading.
 
