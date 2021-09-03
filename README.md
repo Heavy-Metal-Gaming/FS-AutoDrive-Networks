@@ -1,9 +1,10 @@
 # FS AutoDrive Networks
 AutoDrive networks for Farming Simulator Maps. Currently for FS19 only, but when FS22 is released and AD is available for it, these will be included as well.
 
-## Additional Resources
-There are others doing similar things. I fork their repos as I come across them, so that I can contribute fixes. These are links to those.
-[My fork of J.T. Sage's AD repo](https://github.com/Dylan-M/FS19_AutoDrive_Courses)
+# Contributors
+[Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://www.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA/)  
+[Marela](https://www.youtube.com/c/Marelafs)  
+84bkafan29 via [Argsy](https://www.youtube.com/channel/UCvo0R7AXvnvsmIrVjyaEUHA)
 
 ## License
 All networks in this repository are licensed under the [CC0 1.0 Universal license](LICENSE).
@@ -31,6 +32,6 @@ Nothing. Zero. Zilch. Nada.
 # Can I create a network for you on map XYZ?
 Maybe. Perhaps. My time is valuable. I will accept paid contracts to make networks. What we negotiate would depend on the complexity and size of the map. The network would remain mine, be licensed under the [CC0 1.0 Universal license](LICENSE) with the rest of this repository, and shared with everyone. Otherwise, you can hope that I decide to play the same map and create a network for it.
 
-# Contributors
-[Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://www.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA/)
-[Marela](https://www.youtube.com/c/Marelafs)
+## Additional Resources
+There are others doing similar things. I fork their repos as I come across them, so that I can contribute fixes. These are links to those.
+[My fork of J.T. Sage's AD repo](https://github.com/Dylan-M/FS19_AutoDrive_Courses)
