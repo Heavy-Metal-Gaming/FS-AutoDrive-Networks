@@ -1,7 +1,9 @@
 # Map Info
-The name of the map
+[The name of the map](The download URL for the map)
 The name of the map's author(s)
-The download URL for the map
+
+# Contributors
+Credits for the network author(s)
 
 # Network Description
 Describe the network, how it is designed, and any known issues it has.
