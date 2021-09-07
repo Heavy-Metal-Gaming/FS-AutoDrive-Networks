@@ -3,7 +3,7 @@
 ajFarmer
 
 # Credits
-Original author unknown
+Original author unknown  
 [Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://www.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA/) for naming consistency edits
 
 # Network Description
@@ -14,7 +14,7 @@ No translations currently available
 
 # Network Destinations
 ### Suffixes
-(Back) means that you back in
+(Back) means that you back in  
 (Dead End) means that it has no automatic turn around to get back out
 
 ## Fields
