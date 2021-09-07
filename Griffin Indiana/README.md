@@ -2,7 +2,7 @@
 [Griffin Indiana](https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=196780&title=fs2019)
 ajFarmer
 
-# Credits
+# Contributors
 Original author unknown  
 [Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://www.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA/) for naming consistency edits
 
