@@ -50,580 +50,560 @@
     </waypoints>
     <mapmarker>
         <mm1>
-            <id>30.000000</id>
-            <name>bales temp</name>
-            <group>All</group>
+            <id>136.000000</id>
+            <name>Field 16 SW</name>
+            <group>Fields</group>
         </mm1>
         <mm2>
-            <id>136.000000</id>
-            <name>16 SW</name>
-            <group>16</group>
-        </mm2>
-        <mm3>
             <id>294.000000</id>
             <name>weighing station north</name>
-            <group>GRAIN TRADING AU</group>
-        </mm3>
-        <mm4>
+            <group>Grain Trading AU</group>
+        </mm2>
+        <mm3>
             <id>432.000000</id>
             <name>unloading E (long)</name>
-            <group>GRAIN TRADING AU</group>
-        </mm4>
-        <mm5>
+            <group>Grain Trading AU</group>
+        </mm3>
+        <mm4>
             <id>586.000000</id>
             <name>unloading S (long)</name>
-            <group>GRAIN TRADING AU</group>
-        </mm5>
-        <mm6>
+            <group>Grain Trading AU</group>
+        </mm4>
+        <mm5>
             <id>641.000000</id>
             <name>unloading N (long)</name>
-            <group>GRAIN TRADING AU II</group>
-        </mm6>
-        <mm7>
+            <group>Grain Trading AU</group>
+        </mm5>
+        <mm6>
             <id>840.000000</id>
             <name>weighing station south</name>
-            <group>CARGILL WESTERN AUST</group>
+            <group>Cargill Western Australia</group>
+        </mm6>
+        <mm7>
+            <id>861.000000</id>
+            <name>Field 15 NW</name>
+            <group>Fields</group>
         </mm7>
         <mm8>
-            <id>861.000000</id>
-            <name>15 NW</name>
-            <group>15</group>
+            <id>923.000000</id>
+            <name>Field 08 SE</name>
+            <group>Fields</group>
         </mm8>
         <mm9>
-            <id>923.000000</id>
-            <name>08 SE</name>
-            <group>08</group>
+            <id>1164.000000</id>
+            <name>Field 16 SE combine trailer 3</name>
+            <group>Fields</group>
         </mm9>
         <mm10>
-            <id>1164.000000</id>
-            <name>16 SE combine trailer 3</name>
-            <group>16</group>
+            <id>1169.000000</id>
+            <name>Field 16 SE combine trailer 2</name>
+            <group>Fields</group>
         </mm10>
         <mm11>
-            <id>1169.000000</id>
-            <name>16 SE combine trailer 2</name>
-            <group>16</group>
+            <id>1172.000000</id>
+            <name>Field 16 SE combine trailer 1</name>
+            <group>Fields</group>
         </mm11>
         <mm12>
-            <id>1172.000000</id>
-            <name>16 SE combine trailer 1</name>
-            <group>16</group>
+            <id>1340.000000</id>
+            <name>Field 17 SW</name>
+            <group>Fields</group>
         </mm12>
         <mm13>
-            <id>1340.000000</id>
-            <name>17 SW</name>
-            <group>17</group>
+            <id>1906.000000</id>
+            <name>Field 11 NE</name>
+            <group>Fields</group>
         </mm13>
         <mm14>
-            <id>1906.000000</id>
-            <name>11 NE</name>
-            <group>11</group>
+            <id>2101.000000</id>
+            <name>Field 07 SW</name>
+            <group>Fields</group>
         </mm14>
         <mm15>
-            <id>2101.000000</id>
-            <name>07 SW</name>
-            <group>07</group>
+            <id>2316.000000</id>
+            <name>Field 06 SW</name>
+            <group>Fields</group>
         </mm15>
         <mm16>
-            <id>2316.000000</id>
-            <name>06 SW</name>
-            <group>06</group>
-        </mm16>
-        <mm17>
             <id>2443.000000</id>
             <name>garage (pickup)</name>
-            <group>FARM</group>
+            <group>Farm</group>
+        </mm16>
+        <mm17>
+            <id>2650.000000</id>
+            <name>Field 17 NW</name>
+            <group>Fields</group>
         </mm17>
         <mm18>
-            <id>2650.000000</id>
-            <name>17 NW</name>
-            <group>17</group>
+            <id>2670.000000</id>
+            <name>Field 16 NE</name>
+            <group>Fields</group>
         </mm18>
         <mm19>
-            <id>2670.000000</id>
-            <name>16 NE</name>
-            <group>16</group>
+            <id>2751.000000</id>
+            <name>Field 07 SE</name>
+            <group>Fields</group>
         </mm19>
         <mm20>
-            <id>2751.000000</id>
-            <name>07 SE</name>
-            <group>07</group>
+            <id>2963.000000</id>
+            <name>Field 05 SW</name>
+            <group>Fields</group>
         </mm20>
         <mm21>
-            <id>2963.000000</id>
-            <name>05 SW</name>
-            <group>05</group>
+            <id>3065.000000</id>
+            <name>Field 21 NW</name>
+            <group>Fields</group>
         </mm21>
         <mm22>
-            <id>3065.000000</id>
-            <name>21 NW</name>
-            <group>21</group>
+            <id>3157.000000</id>
+            <name>Field 22 NW</name>
+            <group>Fields</group>
         </mm22>
         <mm23>
-            <id>3157.000000</id>
-            <name>22 NW</name>
-            <group>22</group>
+            <id>3726.000000</id>
+            <name>Field 18 NE</name>
+            <group>Fields</group>
         </mm23>
         <mm24>
-            <id>3551.000000</id>
-            <name>18 halfway to north temp</name>
-            <group>zz future developme</group>
+            <id>3449.000000</id>
+            <name>Field 18 NW</name>
+            <group>Fields</group>
         </mm24>
         <mm25>
-            <id>3726.000000</id>
-            <name>18 NE</name>
-            <group>18</group>
+            <id>4042.000000</id>
+            <name>Field 15 NE</name>
+            <group>Fields</group>
         </mm25>
         <mm26>
-            <id>3449.000000</id>
-            <name>18 NW</name>
-            <group>18</group>
+            <id>4078.000000</id>
+            <name>Field 16 SE</name>
+            <group>Fields</group>
         </mm26>
         <mm27>
-            <id>4042.000000</id>
-            <name>15 NE</name>
-            <group>15</group>
+            <id>4568.000000</id>
+            <name>Field 18 SW</name>
+            <group>Fields</group>
         </mm27>
         <mm28>
-            <id>4078.000000</id>
-            <name>16 SE</name>
-            <group>16</group>
+            <id>4791.000000</id>
+            <name>Field 20 NW</name>
+            <group>Fields</group>
         </mm28>
         <mm29>
-            <id>4568.000000</id>
-            <name>18 SW</name>
-            <group>18</group>
+            <id>4813.000000</id>
+            <name>Field 19 NE</name>
+            <group>Fields</group>
         </mm29>
         <mm30>
-            <id>4791.000000</id>
-            <name>20 NW</name>
-            <group>20</group>
+            <id>5211.000000</id>
+            <name>Field 18 W combine trailer 3 E</name>
+            <group>Fields</group>
         </mm30>
         <mm31>
-            <id>4813.000000</id>
-            <name>19 NE</name>
-            <group>19</group>
+            <id>5217.000000</id>
+            <name>Field 18 W combine trailer 2 E</name>
+            <group>Fields</group>
         </mm31>
         <mm32>
-            <id>5211.000000</id>
-            <name>18 W combine trailer 3 E</name>
-            <group>18</group>
+            <id>5221.000000</id>
+            <name>Field 18 W combine trailer 1 E</name>
+            <group>Fields</group>
         </mm32>
         <mm33>
-            <id>5217.000000</id>
-            <name>18 W combine trailer 2 E</name>
-            <group>18</group>
+            <id>5247.000000</id>
+            <name>Field 18 W combine trailer 3 W</name>
+            <group>Fields</group>
         </mm33>
         <mm34>
-            <id>5221.000000</id>
-            <name>18 W combine trailer 1 E</name>
-            <group>18</group>
+            <id>5251.000000</id>
+            <name>Field 18 W combine trailer 2 W</name>
+            <group>Fields</group>
         </mm34>
         <mm35>
-            <id>5247.000000</id>
-            <name>18 W combine trailer 3 W</name>
-            <group>18</group>
+            <id>5257.000000</id>
+            <name>Field 18 W combine trailer 1 W</name>
+            <group>Fields</group>
         </mm35>
         <mm36>
-            <id>5251.000000</id>
-            <name>18 W combine trailer 2 W</name>
-            <group>18</group>
+            <id>5907.000000</id>
+            <name>Field 08 SE combine trailer 3</name>
+            <group>Fields</group>
         </mm36>
         <mm37>
-            <id>5257.000000</id>
-            <name>18 W combine trailer 1 W</name>
-            <group>18</group>
+            <id>5912.000000</id>
+            <name>Field 08 SE combine trailer 2</name>
+            <group>Fields</group>
         </mm37>
         <mm38>
-            <id>5907.000000</id>
-            <name>08 SE combine trailer 3</name>
-            <group>08</group>
+            <id>5914.000000</id>
+            <name>Field 08 SE combine trailer 1</name>
+            <group>Fields</group>
         </mm38>
         <mm39>
-            <id>5912.000000</id>
-            <name>08 SE combine trailer 2</name>
-            <group>08</group>
+            <id>6052.000000</id>
+            <name>Field 10 NE</name>
+            <group>Fields</group>
         </mm39>
         <mm40>
-            <id>5914.000000</id>
-            <name>08 SE combine trailer 1</name>
-            <group>08</group>
+            <id>6075.000000</id>
+            <name>Field 09 SE</name>
+            <group>Fields</group>
         </mm40>
         <mm41>
-            <id>6052.000000</id>
-            <name>10 NE</name>
-            <group>10</group>
+            <id>6129.000000</id>
+            <name>Field 11 NW</name>
+            <group>Fields</group>
         </mm41>
         <mm42>
-            <id>6075.000000</id>
-            <name>09 SE</name>
-            <group>09</group>
+            <id>6149.000000</id>
+            <name>Field 08 SW</name>
+            <group>Fields</group>
         </mm42>
         <mm43>
-            <id>6129.000000</id>
-            <name>11 NW</name>
-            <group>11</group>
+            <id>6299.000000</id>
+            <name>Field 11 NE combine trailer 3</name>
+            <group>Fields</group>
         </mm43>
         <mm44>
-            <id>6149.000000</id>
-            <name>08 SW</name>
-            <group>08</group>
+            <id>6302.000000</id>
+            <name>Field 11 NE combine trailer 2</name>
+            <group>Fields</group>
         </mm44>
         <mm45>
-            <id>6299.000000</id>
-            <name>11 NE combine trailer 3</name>
-            <group>11</group>
+            <id>6305.000000</id>
+            <name>Field 11 NE combine trailer 1</name>
+            <group>Fields</group>
         </mm45>
         <mm46>
-            <id>6302.000000</id>
-            <name>11 NE combine trailer 2</name>
-            <group>11</group>
+            <id>6415.000000</id>
+            <name>Field 02 SE</name>
+            <group>Fields</group>
         </mm46>
         <mm47>
-            <id>6305.000000</id>
-            <name>11 NE combine trailer 1</name>
-            <group>11</group>
+            <id>6644.000000</id>
+            <name>Field 09 NE</name>
+            <group>Fields</group>
         </mm47>
         <mm48>
-            <id>6415.000000</id>
-            <name>02 SE</name>
-            <group>02</group>
+            <id>6672.000000</id>
+            <name>Field 01 SE</name>
+            <group>Fields</group>
         </mm48>
         <mm49>
-            <id>6644.000000</id>
-            <name>09 NE</name>
-            <group>09</group>
+            <id>7249.000000</id>
+            <name>Field 06 E</name>
+            <group>Fields</group>
         </mm49>
         <mm50>
-            <id>6672.000000</id>
-            <name>01 SE</name>
-            <group>01</group>
+            <id>7350.000000</id>
+            <name>Field 04 SE</name>
+            <group>Fields</group>
         </mm50>
         <mm51>
-            <id>7249.000000</id>
-            <name>06 E</name>
-            <group>06</group>
+            <id>7406.000000</id>
+            <name>Field 04 SE combine trailer 3</name>
+            <group>Fields</group>
         </mm51>
         <mm52>
-            <id>7350.000000</id>
-            <name>04 SE</name>
-            <group>04</group>
+            <id>7411.000000</id>
+            <name>Field 04 SE combine trailer 2</name>
+            <group>Fields</group>
         </mm52>
         <mm53>
-            <id>7406.000000</id>
-            <name>04 SE combine trailer 3</name>
-            <group>04</group>
+            <id>7415.000000</id>
+            <name>Field 04 SE combine trailer 1</name>
+            <group>Fields</group>
         </mm53>
         <mm54>
-            <id>7411.000000</id>
-            <name>04 SE combine trailer 2</name>
-            <group>04</group>
+            <id>7433.000000</id>
+            <name>Field 05 W</name>
+            <group>Fields</group>
         </mm54>
         <mm55>
-            <id>7415.000000</id>
-            <name>04 SE combine trailer 1</name>
-            <group>04</group>
+            <id>7447.000000</id>
+            <name>Field 05 W combine trailer 3</name>
+            <group>Fields</group>
         </mm55>
         <mm56>
-            <id>7433.000000</id>
-            <name>05 W</name>
-            <group>05</group>
+            <id>7451.000000</id>
+            <name>Field 05 W combine trailer 2</name>
+            <group>Fields</group>
         </mm56>
         <mm57>
-            <id>7447.000000</id>
-            <name>05 W combine trailer 3</name>
-            <group>05</group>
+            <id>7455.000000</id>
+            <name>Field 05 W combine trailer 1</name>
+            <group>Fields</group>
         </mm57>
         <mm58>
-            <id>7451.000000</id>
-            <name>05 W combine trailer 2</name>
-            <group>05</group>
+            <id>7496.000000</id>
+            <name>Field 06 NE</name>
+            <group>Fields</group>
         </mm58>
         <mm59>
-            <id>7455.000000</id>
-            <name>05 W combine trailer 1</name>
-            <group>05</group>
+            <id>7656.000000</id>
+            <name>Field 06 NE combine trailer 3</name>
+            <group>Fields</group>
         </mm59>
         <mm60>
-            <id>7496.000000</id>
-            <name>06 NE</name>
-            <group>06</group>
+            <id>7660.000000</id>
+            <name>Field 06 NE combine trailer 2</name>
+            <group>Fields</group>
         </mm60>
         <mm61>
-            <id>7656.000000</id>
-            <name>06 NE combine trailer 3</name>
-            <group>06</group>
+            <id>7668.000000</id>
+            <name>Field 06 NE combine trailer 1</name>
+            <group>Fields</group>
         </mm61>
         <mm62>
-            <id>7660.000000</id>
-            <name>06 NE combine trailer 2</name>
-            <group>06</group>
+            <id>7741.000000</id>
+            <name>Field 18 NE combine trailer 3</name>
+            <group>Fields</group>
         </mm62>
         <mm63>
-            <id>7668.000000</id>
-            <name>06 NE combine trailer 1</name>
-            <group>06</group>
+            <id>7747.000000</id>
+            <name>Field 18 NE combine trailer 2</name>
+            <group>Fields</group>
         </mm63>
         <mm64>
-            <id>7741.000000</id>
-            <name>18 NE combine trailer 3</name>
-            <group>18</group>
+            <id>7753.000000</id>
+            <name>Field 18 NE combine trailer 1</name>
+            <group>Fields</group>
         </mm64>
         <mm65>
-            <id>7747.000000</id>
-            <name>18 NE combine trailer 2</name>
-            <group>18</group>
-        </mm65>
-        <mm66>
-            <id>7753.000000</id>
-            <name>18 NE combine trailer 1</name>
-            <group>18</group>
-        </mm66>
-        <mm67>
             <id>7837.000000</id>
             <name>fertilizer (long)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm67>
-        <mm68>
+            <group>Cargill Western Australia</group>
+        </mm65>
+        <mm66>
             <id>7836.000000</id>
             <name>fertilizer (short)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm68>
-        <mm69>
+            <group>Cargill Western Australia</group>
+        </mm66>
+        <mm67>
             <id>7838.000000</id>
             <name>fertilizer (double)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm69>
-        <mm70>
+            <group>Cargill Western Australia</group>
+        </mm67>
+        <mm68>
             <id>7912.000000</id>
             <name>loading S from silos (double)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm70>
-        <mm71>
+            <group>Cargill Western Australia</group>
+        </mm68>
+        <mm69>
             <id>7796.000000</id>
             <name>liquid fertilizer (long)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm71>
-        <mm72>
+            <group>Cargill Western Australia</group>
+        </mm69>
+        <mm70>
             <id>7795.000000</id>
             <name>liquid fertilizer (short)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm72>
-        <mm73>
+            <group>Cargill Western Australia</group>
+        </mm70>
+        <mm71>
             <id>7797.000000</id>
             <name>liquid fertilizer (double)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm73>
-        <mm74>
+            <group>Cargill Western Australia</group>
+        </mm71>
+        <mm72>
             <id>7799.000000</id>
             <name>liquid fertilizer (train)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm74>
-        <mm75>
+            <group>Cargill Western Australia</group>
+        </mm72>
+        <mm73>
             <id>7858.000000</id>
             <name>loading at train (short)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm75>
-        <mm76>
+            <group>Cargill Western Australia</group>
+        </mm73>
+        <mm74>
             <id>7859.000000</id>
             <name>loading at train (long)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm76>
-        <mm77>
+            <group>Cargill Western Australia</group>
+        </mm74>
+        <mm75>
             <id>7861.000000</id>
             <name>loading at train (double)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm77>
-        <mm78>
+            <group>Cargill Western Australia</group>
+        </mm75>
+        <mm76>
             <id>7941.000000</id>
             <name>loading N from silos (long)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm78>
-        <mm79>
+            <group>Cargill Western Australia</group>
+        </mm76>
+        <mm77>
             <id>7944.000000</id>
             <name>loading N from silos (double)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm79>
-        <mm80>
+            <group>Cargill Western Australia</group>
+        </mm77>
+        <mm78>
             <id>7909.000000</id>
             <name>loading S from silos (short)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm80>
-        <mm81>
+            <group>Cargill Western Australia</group>
+        </mm78>
+        <mm79>
             <id>7910.000000</id>
             <name>loading S from silos (long)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm81>
-        <mm82>
+            <group>Cargill Western Australia</group>
+        </mm79>
+        <mm80>
             <id>7913.000000</id>
             <name>loading S from silos (train)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm82>
-        <mm83>
+            <group>Cargill Western Australia</group>
+        </mm80>
+        <mm81>
             <id>7945.000000</id>
             <name>loading N from silos (train)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm83>
-        <mm84>
+            <group>Cargill Western Australia</group>
+        </mm81>
+        <mm82>
             <id>7982.000000</id>
             <name>un/load at depot (regular)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm84>
-        <mm85>
+            <group>Cargill Western Australia</group>
+        </mm82>
+        <mm83>
             <id>7984.000000</id>
             <name>un/load at depot (double)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm85>
-        <mm86>
+            <group>Cargill Western Australia</group>
+        </mm83>
+        <mm84>
             <id>7988.000000</id>
             <name>un/load at depot (train)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm86>
-        <mm87>
+            <group>Cargill Western Australia</group>
+        </mm84>
+        <mm85>
             <id>815.000000</id>
             <name>unloading at train (short)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm87>
-        <mm88>
+            <group>Cargill Western Australia</group>
+        </mm85>
+        <mm86>
             <id>816.000000</id>
             <name>unloading at train (long)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm88>
-        <mm89>
+            <group>Cargill Western Australia</group>
+        </mm86>
+        <mm87>
             <id>817.000000</id>
             <name>unloading at train (double)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm89>
-        <mm90>
+            <group>Cargill Western Australia</group>
+        </mm87>
+        <mm88>
             <id>818.000000</id>
             <name>unloading at train (train)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm90>
-        <mm91>
+            <group>Cargill Western Australia</group>
+        </mm88>
+        <mm89>
             <id>7888.000000</id>
             <name>ammonia (short)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm91>
-        <mm92>
+            <group>Cargill Western Australia</group>
+        </mm89>
+        <mm90>
             <id>7891.000000</id>
             <name>ammonia (long)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm92>
-        <mm93>
+            <group>Cargill Western Australia</group>
+        </mm90>
+        <mm91>
             <id>7894.000000</id>
             <name>ammonia (double)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm93>
-        <mm94>
+            <group>Cargill Western Australia</group>
+        </mm91>
+        <mm92>
             <id>7896.000000</id>
             <name>ammonia (train)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm94>
-        <mm95>
+            <group>Cargill Western Australia</group>
+        </mm92>
+        <mm93>
             <id>7840.000000</id>
             <name>fertilizer (train)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm95>
-        <mm96>
+            <group>Cargill Western Australia</group>
+        </mm93>
+        <mm94>
             <id>7863.000000</id>
             <name>loading at train (train)</name>
-            <group>CARGILL WESTERN AUST</group>
-        </mm96>
-        <mm97>
+            <group>Cargill Western Australia</group>
+        </mm94>
+        <mm95>
             <id>8237.000000</id>
             <name>SE yard</name>
-            <group>FARM</group>
-        </mm97>
-        <mm98>
+            <group>Farm</group>
+        </mm95>
+        <mm96>
             <id>8254.000000</id>
-            <name>fuel</name>
-            <group>FARM</group>
-        </mm98>
-        <mm99>
+            <name>Fuel</name>
+            <group>Farm</group>
+        </mm96>
+        <mm97>
             <id>8080.000000</id>
             <name>unloading at silos (short)</name>
-            <group>FARM</group>
-        </mm99>
-        <mm100>
+            <group>Farm</group>
+        </mm97>
+        <mm98>
             <id>8081.000000</id>
             <name>unloading at silos (long)</name>
-            <group>FARM</group>
-        </mm100>
-        <mm101>
+            <group>Farm</group>
+        </mm98>
+        <mm99>
             <id>8082.000000</id>
             <name>unloading at silos (double)</name>
-            <group>FARM</group>
-        </mm101>
-        <mm102>
+            <group>Farm</group>
+        </mm99>
+        <mm100>
             <id>8084.000000</id>
             <name>unloading at silos (train)</name>
-            <group>FARM</group>
-        </mm102>
-        <mm103>
+            <group>Farm</group>
+        </mm100>
+        <mm101>
             <id>8169.000000</id>
             <name>loading from silos (regular)</name>
-            <group>FARM</group>
-        </mm103>
-        <mm104>
+            <group>Farm</group>
+        </mm101>
+        <mm102>
             <id>8171.000000</id>
             <name>loading from silos (double)</name>
-            <group>FARM</group>
-        </mm104>
-        <mm105>
+            <group>Farm</group>
+        </mm102>
+        <mm103>
             <id>8173.000000</id>
             <name>loading from silos (train)</name>
-            <group>FARM</group>
+            <group>Farm</group>
+        </mm103>
+        <mm104>
+            <id>8588.000000</id>
+            <name>Field 14 NE</name>
+            <group>Fields</group>
+        </mm104>
+        <mm105>
+            <id>8636.000000</id>
+            <name>Field 15 SE</name>
+            <group>Fields</group>
         </mm105>
         <mm106>
-            <id>8588.000000</id>
-            <name>14 NE</name>
-            <group>14</group>
+            <id>8765.000000</id>
+            <name>Field 14 parking</name>
+            <group>Parking</group>
         </mm106>
         <mm107>
-            <id>8636.000000</id>
-            <name>15 SE</name>
-            <group>15</group>
+            <id>8950.000000</id>
+            <name>Field 13 NE</name>
+            <group>Fields</group>
         </mm107>
         <mm108>
-            <id>8765.000000</id>
-            <name>14 parking</name>
-            <group>zz future developme</group>
+            <id>9148.000000</id>
+            <name>Field 10 SE</name>
+            <group>Fields</group>
         </mm108>
         <mm109>
-            <id>8950.000000</id>
-            <name>13 NE</name>
-            <group>13</group>
+            <id>9265.000000</id>
+            <name>Field 12 NE</name>
+            <group>Fields</group>
         </mm109>
         <mm110>
-            <id>9043.000000</id>
-            <name>12 to be removed</name>
-            <group>zz future developme</group>
+            <id>9396.000000</id>
+            <name>Field 15 SW</name>
+            <group>Fields</group>
         </mm110>
         <mm111>
-            <id>9148.000000</id>
-            <name>10 SE</name>
-            <group>10</group>
-        </mm111>
-        <mm112>
-            <id>9265.000000</id>
-            <name>12 NE</name>
-            <group>12</group>
-        </mm112>
-        <mm113>
-            <id>9309.000000</id>
-            <name>12 to 14 to be removed</name>
-            <group>zz future developme</group>
-        </mm113>
-        <mm114>
-            <id>9396.000000</id>
-            <name>15 SW</name>
-            <group>15</group>
-        </mm114>
-        <mm115>
             <id>9427.000000</id>
-            <name>14 NW</name>
-            <group>14</group>
-        </mm115>
+            <name>Field 14 NW</name>
+            <group>Fields</group>
+        </mm111>
     </mapmarker>
     <lastTipOfTheDay>1</lastTipOfTheDay>
     <highestTipOfTheDay>1</highestTipOfTheDay>
