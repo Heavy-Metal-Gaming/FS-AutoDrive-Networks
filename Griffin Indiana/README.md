@@ -1,5 +1,5 @@
 # Map Info
-[Griffin Indiana](https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=196780&title=fs2019)
+[Griffin Indiana](https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=196780&title=fs2019)  
 ajFarmer
 
 # Contributors
