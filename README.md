@@ -1,5 +1,5 @@
 # FS AutoDrive Networks
-AutoDrive networks for Farming Simulator Maps. Currently for FS19 only, but when FS22 is released and AD is available for it, these will be included as well.
+AutoDrive networks for Farming Simulator Maps. Currently for FS19 and FS22.
 
 # Contributors
 [Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://www.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA/)  
