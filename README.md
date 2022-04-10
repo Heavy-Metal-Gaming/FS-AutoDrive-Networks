@@ -4,7 +4,7 @@ AutoDrive networks for Farming Simulator Maps. Currently for FS19 and FS22.
 # Contributors
 [Dylan-M](https://github.com/Dylan-M) aka [Heavy Metal Gaming](https://www.youtube.com/channel/UCFR1kTRqT_PrV97_sNCWHAA/)  
 [Marela](https://www.youtube.com/c/Marelafs)  
-84bkafan29 via [Argsy](https://www.youtube.com/channel/UCvo0R7AXvnvsmIrVjyaEUHA)
+84bkafan29 via [Argsy](https://www.youtube.com/channel/UCvo0R7AXvnvsmIrVjyaEUHA)  
 [Farmer_Ed_Gaming](https://github.com/Farmer-Ed-Gaming)
 
 ## License
