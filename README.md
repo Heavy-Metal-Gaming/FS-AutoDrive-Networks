@@ -12,7 +12,7 @@ All networks in this repository are licensed under the [CC0 1.0 Universal licens
 
 # How to use.
 Download the AutoDrive_config.xml file for the map into the save game folder for whichever save you wish.
-WARNING: Following this **will** overwrite any existing courses for that save game. If you wish to keep them, please create a backup.
+WARNING: Following this **will** overwrite any existing network for that save game. If you wish to keep them, please create a backup.
 
 ## I found a bug, limitation, or other issue with a network
 Please use the [GitHub Issues tool](https://github.com/Dylan-M/FS-AutoDrive-Networks/issues) for this repository.
