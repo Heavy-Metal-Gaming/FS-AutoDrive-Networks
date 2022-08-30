@@ -61,60 +61,57 @@ No current translations.
 	* Northeast Meadow
 
 ## Farm
-Farm - North of Ballfield
-Farm - Northwest of Town
-Farm - West
-Farm - West of Town
-Farm - South of Town
+	* Farm - North of Ballfield
+	* Farm - Northwest of Town
+	* Farm - West
+	* Farm - West of Town
+	* Farm - South of Town
 
 ### Parking
 No current parking spots defined
 
 ### Silos
-Farm NW - Fermenting Silo
-Farm NW - Grain Silo
-GW Elevator
+	* Farm NW - Fermenting Silo
+	* Farm NW - Grain Silo
+	* GW Elevator
 
 ## BGA
-BGA - Digestate (Out)
-BGA - Slurry (In)
-BGA - Digester (In)
+	* BGA - Digestate (Out)
+	* BGA - Slurry (In)
+	* BGA - Digester (In)
 
 ## Points of Interest
-Any points of interest, such as placable areas or what have you.
+	* Fire Department
+	* Baseball Park
+	* Firewatch Tower
+	* French House
 
 ## Sale Points
-Campground
-Debris Crusher
-GrocerYMart
-Larsons Livestock (Bales)
-Larsons Livestock (Manure)
-Red Mantle Bowling Alley
-Johnson's Farmers Market
-Uncle Pete's Diner
+	* Campground
+	* Debris Crusher
+	* GrocerYMart
+	* Larsons Livestock (Bales)
+	* Larsons Livestock (Manure)
+	* Red Mantle Bowling Alley
+	* Johnson's Farmers Market
+	* Uncle Pete's Diner
 
 ## Production Points
-Fair Dairy
-HH Milling
-Sawmill - Logs Unload
-Sawmill - Woodchip Load
-Spinnery
+	* Fair Dairy
+	* HH Milling
+	* Sawmill - Logs Unload
+	* Sawmill - Woodchip Load
+	* Spinnery
 
 ## Buy Points
-GW Elevator - Sales
-HH Milling - Sales
-Utility Dept. - Sales
-Utility Dept. - Water
-
-## Points of Interest
-Fire Department
-Baseball Park
-Firewatch Tower
-French House
+	* GW Elevator - Sales
+	* HH Milling - Sales
+	* Utility Dept. - Sales
+	* Utility Dept. - Water
 
 ## Fuel (Includes Electric & Methane)
-Fuel 1
+	* Fuel 1
 
 ## Shop
-Shop
-Shop - Repair
+	* Shop
+	* Shop - Repair
