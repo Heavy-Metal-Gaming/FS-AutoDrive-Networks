@@ -66,14 +66,16 @@ No current translations.
 	* Farm - West
 	* Farm - West of Town
 	* Farm - South of Town
+	* Farm NW
+	* Farm NW - Fermenting Silo
+	* Farm NW - Grain Silo
 
 ### Parking
 No current parking spots defined
 
 ### Silos
-	* Farm NW - Fermenting Silo
-	* Farm NW - Grain Silo
 	* GW Elevator
+	* GW Elevator Reload Chute
 
 ## BGA
 	* BGA - Digestate (Out)
